@@ -1,0 +1,83 @@
+Name: John
+ID: 0001
+Pay: 100000
+Position: CEO
+Gender: M
+
+Name: Cindy
+ID: 0002
+Pay: 200000
+Position: CFO
+Gender: F
+
+Name: Singh
+ID: 0003
+Pay: 150000
+Position: Engineer
+Gender: M
+
+Name: Bob
+ID: 0004
+Pay: 60000
+Position: Intern
+Gender: M
+
+Name: Jessica
+ID: 0005
+Pay: 60000
+Position: Intern
+Gender: F
+
+Name: Cindy
+ID: 0006
+Pay: 60000
+Position: Intern
+Gender: F
+
+Name: Andy
+ID: 0007
+Pay: 50000
+Position: Intern
+Gender: M
+
+Name: Smith
+ID: 0008
+Pay: 45000
+Position: Entry-level
+Gender: M
+
+Name: Sandy
+ID: 0009
+Pay: 45000
+Position: Entry-level
+Gender: F
+
+Name: Mary
+ID: 0010
+Pay: 100000
+Position: Manager
+Gender: F
+
+Name: Bobby
+ID: 0011
+Pay: 100000
+Position: Manager
+Gender: M
+
+Name: Monica
+ID: 0012
+Pay: 100000
+Position: Manager
+Gender: F
+
+Name: Phoebe
+ID: 0013
+Pay: 100000
+Position: Manager
+Gender: F
+
+Name: Ross
+ID: 0014
+Pay: 100000
+Position: Manager
+Gender: M
